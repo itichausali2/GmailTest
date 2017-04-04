@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [TestGmail]">
+  <test name="TestGmail(failed)">
+    <classes>
+      <class name="AutomateGmail">
+        <methods>
+          <include name="startupScreen"/>
+          <include name="launchBrowser"/>
+        </methods>
+      </class> <!-- AutomateGmail -->
+    </classes>
+  </test> <!-- TestGmail(failed) -->
+</suite> <!-- Failed suite [TestGmail] -->
